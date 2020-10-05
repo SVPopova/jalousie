@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/jalousie/static/css/main.0b16cf97.chunk.css",
-    "main.js": "/jalousie/static/js/main.8ed5169f.chunk.js",
-    "main.js.map": "/jalousie/static/js/main.8ed5169f.chunk.js.map",
+    "main.css": "/jalousie/static/css/main.243954c0.chunk.css",
+    "main.js": "/jalousie/static/js/main.c1441704.chunk.js",
+    "main.js.map": "/jalousie/static/js/main.c1441704.chunk.js.map",
     "runtime-main.js": "/jalousie/static/js/runtime-main.51b85fbf.js",
     "runtime-main.js.map": "/jalousie/static/js/runtime-main.51b85fbf.js.map",
-    "static/js/2.2b630540.chunk.js": "/jalousie/static/js/2.2b630540.chunk.js",
-    "static/js/2.2b630540.chunk.js.map": "/jalousie/static/js/2.2b630540.chunk.js.map",
+    "static/js/2.cf702268.chunk.js": "/jalousie/static/js/2.cf702268.chunk.js",
+    "static/js/2.cf702268.chunk.js.map": "/jalousie/static/js/2.cf702268.chunk.js.map",
     "index.html": "/jalousie/index.html",
-    "precache-manifest.43296a73814c1a0c3ab3e42f07551776.js": "/jalousie/precache-manifest.43296a73814c1a0c3ab3e42f07551776.js",
+    "precache-manifest.136f6910db823a46ae728f0f2febd460.js": "/jalousie/precache-manifest.136f6910db823a46ae728f0f2febd460.js",
     "service-worker.js": "/jalousie/service-worker.js",
-    "static/css/main.0b16cf97.chunk.css.map": "/jalousie/static/css/main.0b16cf97.chunk.css.map",
-    "static/js/2.2b630540.chunk.js.LICENSE.txt": "/jalousie/static/js/2.2b630540.chunk.js.LICENSE.txt",
+    "static/css/main.243954c0.chunk.css.map": "/jalousie/static/css/main.243954c0.chunk.css.map",
+    "static/js/2.cf702268.chunk.js.LICENSE.txt": "/jalousie/static/js/2.cf702268.chunk.js.LICENSE.txt",
     "static/media/benefit1.png": "/jalousie/static/media/benefit1.03ab42bf.png",
     "static/media/benefit2.png": "/jalousie/static/media/benefit2.691d824e.png",
     "static/media/benefit3.png": "/jalousie/static/media/benefit3.c8b7d7e4.png",
@@ -26,6 +26,7 @@
     "static/media/client6.png": "/jalousie/static/media/client6.b76f3b06.png",
     "static/media/App.css": "/jalousie/static/media/top-bg.c3915509.jpg",
     "static/media/Main.css": "/jalousie/static/media/saving-bg.08d348ce.jpg",
+    "static/media/why-we_arrow1.png": "/jalousie/static/media/why-we_arrow1.db462d5c.png",
     "static/media/zhaluzi1.jpg": "/jalousie/static/media/zhaluzi1.033dd617.jpg",
     "static/media/zhaluzi2.jpg": "/jalousie/static/media/zhaluzi2.856ae1ea.jpg",
     "static/media/zhaluzi3.jpg": "/jalousie/static/media/zhaluzi3.57a17039.jpg",
@@ -37,8 +38,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.51b85fbf.js",
-    "static/js/2.2b630540.chunk.js",
-    "static/css/main.0b16cf97.chunk.css",
-    "static/js/main.8ed5169f.chunk.js"
+    "static/js/2.cf702268.chunk.js",
+    "static/css/main.243954c0.chunk.css",
+    "static/js/main.c1441704.chunk.js"
   ]
 }

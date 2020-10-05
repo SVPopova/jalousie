@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "faca8b24ae0fd446d29fb1b2ef78fc5b",
+    "revision": "31f3a9b1109a2e8c4b748d4f81f7e29c",
     "url": "/jalousie/index.html"
   },
   {
-    "revision": "8071044761e2888ee7c0",
-    "url": "/jalousie/static/css/main.0b16cf97.chunk.css"
+    "revision": "ff33eb4efc38b9c90d91",
+    "url": "/jalousie/static/css/main.243954c0.chunk.css"
   },
   {
-    "revision": "6722e4d5bbc91db68ddd",
-    "url": "/jalousie/static/js/2.2b630540.chunk.js"
+    "revision": "e34cbfa223094b9c23db",
+    "url": "/jalousie/static/js/2.cf702268.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/jalousie/static/js/2.2b630540.chunk.js.LICENSE.txt"
+    "url": "/jalousie/static/js/2.cf702268.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8071044761e2888ee7c0",
-    "url": "/jalousie/static/js/main.8ed5169f.chunk.js"
+    "revision": "ff33eb4efc38b9c90d91",
+    "url": "/jalousie/static/js/main.c1441704.chunk.js"
   },
   {
     "revision": "c01183f76495b74929f3",
@@ -158,6 +158,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c39155096dcaca4c2d8d233ffa7a4202",
     "url": "/jalousie/static/media/top-bg.c3915509.jpg"
+  },
+  {
+    "revision": "db462d5cb0c32f8e70c3768ddb1a18f6",
+    "url": "/jalousie/static/media/why-we_arrow1.db462d5c.png"
   },
   {
     "revision": "033dd6172964957e36fefee12d581086",
